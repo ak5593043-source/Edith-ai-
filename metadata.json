@@ -1,0 +1,10 @@
+{
+  "name": "JARVIS – Premium Personal AI Assistant",
+  "description": "Minimal AMOLED black AI assistant with Groq intelligence, voice interaction, file analysis, and real-time search.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
